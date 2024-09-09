@@ -55,5 +55,5 @@ The heatmap reveals significant correlations between several features, such as e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ASC23-Transport-Data-Analysis.git
-   cd ASC23-Transport-Data-Analysis
+   git clone https://github.com/yourusername/ALU_ASC23-Transport-Data-Analysis.git
+   cd ALU_ASC23-Transport-Data-Analysis
